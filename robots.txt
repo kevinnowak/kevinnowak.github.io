@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kevinnowak.github.io//sitemap.xml
+Sitemap: https://kevinnowak.github.io/sitemap.xml
